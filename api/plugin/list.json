@@ -1,0 +1,42 @@
+{
+    "code": "00000",
+    "data": {
+        "plugins": [
+            {
+                "appReviews": [],
+                "appTags": [],
+                "category": "productivity",
+                "description": "采集工具",
+                "developer": "采集工具",
+                "plugin_url": {
+                    "darwin-arm64": {
+                        "md5": "794c9f43299ba9865bc8a5e15c6d1e30",
+                        "url": "https://voyager-hang.github.io/graphic_novels_plug/spider"
+                    }
+                },
+                "featurePoints": [
+                    {
+                        "description": "采集工具",
+                        "title": "采集工具"
+                    }
+                ],
+                "fullName": "Spider",
+                "icon": "https://voyager-hang.github.io/graphic_novels_plug/static/image.png",
+                "pkg_name": "gn_spider",
+                "longDescription": "采集工具",
+                "name": "GnSpider",
+                "osVersion": [
+                    "all"
+                ],
+                "price": "免费",
+                "rating": 4.8,
+                "reviewCount": 1284,
+                "screenshotUrls": [
+
+                ],
+                "subcategory": "效率"
+            }
+        ]
+    },
+    "msg": "success"
+}
