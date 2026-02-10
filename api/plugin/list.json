@@ -11,7 +11,11 @@
                 "plugin_url": {
                     "darwin-arm64": {
                         "md5": "7f63f45056c7612c70542f331ef9cda0",
-                        "url": "https://voyager-hang.github.io/graphic_novels_plug/spider"
+                        "url": "https://voyager-hang.github.io/graphic_novels_plug/spider_darwin_arm64"
+                    },
+                    "linux-amd64": {
+                        "md5": "fe02156aac6e2aa9a65dfb4cb3974a2d",
+                        "url": "https://voyager-hang.github.io/graphic_novels_plug/spider_linux_amd64"
                     }
                 },
                 "featurePoints": [
