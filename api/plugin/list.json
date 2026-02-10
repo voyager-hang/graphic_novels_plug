@@ -10,11 +10,11 @@
                 "developer": "采集工具",
                 "plugin_url": {
                     "darwin-arm64": {
-                        "md5": "7f63f45056c7612c70542f331ef9cda0",
+                        "md5": "1d716cdd28ba7f0a25486611a811cdc4",
                         "url": "https://github.com/voyager-hang/graphic_novels_plug/releases/download/v0.0.1/spider_darwin_arm64"
                     },
                     "linux-amd64": {
-                        "md5": "fe02156aac6e2aa9a65dfb4cb3974a2d",
+                        "md5": "980b416d93952c96d5bb06a34330c8f1",
                         "url": "https://github.com/voyager-hang/graphic_novels_plug/releases/download/v0.0.1/spider_linux_amd64"
                     }
                 },
